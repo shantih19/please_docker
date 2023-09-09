@@ -1,0 +1,1 @@
+alias plz="docker run --rm -v $pwd:/working:rw git.shantih19.xyz/shantih19/please"
